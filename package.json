@@ -1,0 +1,13 @@
+{
+    "name":        "tmi-twitter-lottery-bot",
+    "version":     "1.0.0",
+    "description": "A Twitter Bot which allows players to play lottery-type luck games to win shoutouts",
+    "main":        "lottery_bot.js",
+    "scripts": {
+        "start": "nodejs lottery_bot.js"
+    },
+    "author": "Matt Dittmer - TMI-Technologies",
+    "dependencies": {
+        "twit": "^2.2.5"
+    }
+}
