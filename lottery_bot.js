@@ -1,13 +1,3 @@
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//                                                     TO-DO:                                                           //
-//                                                                                                                      // 
-// Next: Create functions for posting a game update after every succesful guess                                         // 
-//                                                                                                                      // 
-// After: Populate finishGame() with code to pick a number, find the closest guess, and pick that user as the winner    //
-//        then post the winner, then reset the game and make a new post saying the game is reset.                       //
-//                                                                                                                      //
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 // Import the Chalk package for a prettier console experience :)
 var chalk = require('chalk');
 
