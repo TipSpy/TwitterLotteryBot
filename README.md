@@ -13,4 +13,4 @@ and uses the "Twit" module to interface with twitter.
 
 Use 'npm install twit' and 'npm install chalk' to set up your project.
 
-To see the live version running, find @Lotto4S on twitter.
+
